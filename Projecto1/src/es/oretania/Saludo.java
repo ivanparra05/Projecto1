@@ -6,7 +6,10 @@ public class Saludo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola");
-
+	}
+	
+	public double restar(double a, double b) {
+			 return a - b;
 	}
 
 }
